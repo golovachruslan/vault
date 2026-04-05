@@ -1,0 +1,8 @@
+{
+  "name": "vault",
+  "version": "1.0.0",
+  "description": "AI-agent-friendly Obsidian vault management -- setup, capture, organize, and context generation",
+  "author": {
+    "name": "Ruslan Halavach"
+  }
+}

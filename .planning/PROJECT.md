@@ -12,11 +12,11 @@ Any AI agent session starts with full, accurate context about all active project
 
 ### Validated
 
-(None yet — ship to validate)
+- [x] Setup wizard that creates a new vault or adapts an existing one with the canonical folder structure (PARA + project category subfolders) — Validated in Phase 1: Foundation + Setup
+- [x] Note templates for all document types: project dashboard, architecture doc, ERD, requirements/PRD, ADR, task list, inbox note, daily note — Partially validated in Phase 1 (3 core templates: project dashboard, task list, inbox note)
 
 ### Active
 
-- [ ] Setup wizard that creates a new vault or adapts an existing one with the canonical folder structure (PARA + project category subfolders)
 - [ ] Quick capture command that analyzes content and auto-suggests the right destination (project/area/inbox), creating a structured note
 - [ ] On-demand inbox organization that proposes destinations for each inbox item, user confirms, agent moves and links
 - [ ] Project dashboard creation/refresh with category subfolders (architecture/, requirements/, decisions/, notes/) and task tracking
@@ -80,4 +80,4 @@ This document evolves at phase transitions and milestone boundaries.
 4. Update Context with current state
 
 ---
-*Last updated: 2026-04-04 after initialization*
+*Last updated: 2026-04-05 after Phase 1 completion*

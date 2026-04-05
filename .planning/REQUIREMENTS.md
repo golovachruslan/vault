@@ -92,33 +92,33 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| SETUP-01 | Phase 1 | Pending |
-| SETUP-02 | Phase 1 | Pending |
-| SETUP-03 | Phase 1 | Pending |
-| SETUP-04 | Phase 1 | Pending |
-| CAPT-01 | Phase 2 | Pending |
-| CAPT-02 | Phase 2 | Pending |
-| CAPT-03 | Phase 2 | Pending |
-| CAPT-04 | Phase 2 | Pending |
-| ORG-01 | Phase 2 | Pending |
-| ORG-02 | Phase 2 | Pending |
-| ORG-03 | Phase 2 | Pending |
-| ORG-04 | Phase 2 | Pending |
-| PROJ-01 | Phase 2 | Pending |
-| PROJ-02 | Phase 2 | Pending |
-| PROJ-03 | Phase 2 | Pending |
-| CTX-01 | Phase 3 | Pending |
-| CTX-02 | Phase 3 | Pending |
-| CTX-03 | Phase 3 | Pending |
-| CTX-04 | Phase 3 | Pending |
-| CTX-05 | Phase 3 | Pending |
-| CTX-06 | Phase 3 | Pending |
-| ANLZ-01 | Phase 3 | Pending |
-| ANLZ-02 | Phase 3 | Pending |
-| ANLZ-03 | Phase 3 | Pending |
-| ANLZ-04 | Phase 3 | Pending |
-| ANLZ-05 | Phase 3 | Pending |
-| ANLZ-06 | Phase 3 | Pending |
+| SETUP-01 | Phase 1 — Foundation + Setup | Pending |
+| SETUP-02 | Phase 1 — Foundation + Setup | Pending |
+| SETUP-03 | Phase 1 — Foundation + Setup | Pending |
+| SETUP-04 | Phase 1 — Foundation + Setup | Pending |
+| CAPT-01 | Phase 2 — Daily Workflows | Pending |
+| CAPT-02 | Phase 2 — Daily Workflows | Pending |
+| CAPT-03 | Phase 2 — Daily Workflows | Pending |
+| CAPT-04 | Phase 2 — Daily Workflows | Pending |
+| ORG-01 | Phase 2 — Daily Workflows | Pending |
+| ORG-02 | Phase 2 — Daily Workflows | Pending |
+| ORG-03 | Phase 2 — Daily Workflows | Pending |
+| ORG-04 | Phase 2 — Daily Workflows | Pending |
+| PROJ-01 | Phase 2 — Daily Workflows | Pending |
+| PROJ-02 | Phase 2 — Daily Workflows | Pending |
+| PROJ-03 | Phase 2 — Daily Workflows | Pending |
+| CTX-01 | Phase 3 — Context + Analysis | Pending |
+| CTX-02 | Phase 3 — Context + Analysis | Pending |
+| CTX-03 | Phase 3 — Context + Analysis | Pending |
+| CTX-04 | Phase 3 — Context + Analysis | Pending |
+| CTX-05 | Phase 3 — Context + Analysis | Pending |
+| CTX-06 | Phase 3 — Context + Analysis | Pending |
+| ANLZ-01 | Phase 3 — Context + Analysis | Pending |
+| ANLZ-02 | Phase 3 — Context + Analysis | Pending |
+| ANLZ-03 | Phase 3 — Context + Analysis | Pending |
+| ANLZ-04 | Phase 3 — Context + Analysis | Pending |
+| ANLZ-05 | Phase 3 — Context + Analysis | Pending |
+| ANLZ-06 | Phase 3 — Context + Analysis | Pending |
 
 **Coverage:**
 - v1 requirements: 27 total
@@ -127,4 +127,4 @@
 
 ---
 *Requirements defined: 2026-04-04*
-*Last updated: 2026-04-04 after initial definition*
+*Last updated: 2026-03-28 after roadmap creation*

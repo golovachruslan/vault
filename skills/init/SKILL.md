@@ -1,5 +1,5 @@
 ---
-name: vault-init
+name: init
 description: Initialize or adapt an Obsidian vault with PARA structure, templates, and agent context files
 disable-model-invocation: true
 allowed-tools: Read Write Bash Glob Grep

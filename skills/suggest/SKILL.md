@@ -1,5 +1,5 @@
 ---
-name: vault-suggest
+name: suggest
 description: Get proactive improvement suggestions for your vault
 disable-model-invocation: true
 allowed-tools: Read Write Bash Glob Grep

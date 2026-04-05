@@ -1,5 +1,5 @@
 ---
-name: vault-sync
+name: sync
 description: Regenerate CLAUDE.md and context files from current vault state
 disable-model-invocation: true
 allowed-tools: Read Write Bash Glob Grep

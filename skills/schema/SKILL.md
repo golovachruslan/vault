@@ -1,5 +1,5 @@
 ---
-name: vault-schema
+name: schema
 description: "Vault folder structure, PARA routing rules, frontmatter conventions, and naming standards. Use when creating, moving, or organizing notes in this vault."
 user-invocable: false
 ---

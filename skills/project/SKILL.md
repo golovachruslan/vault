@@ -1,5 +1,5 @@
 ---
-name: vault-project
+name: project
 description: Create or refresh a project dashboard with category subfolders
 disable-model-invocation: true
 allowed-tools: Read Write Bash Glob Grep

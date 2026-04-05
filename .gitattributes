@@ -1,0 +1,2 @@
+scripts/*.sh eol=lf
+scripts/*.sh diff

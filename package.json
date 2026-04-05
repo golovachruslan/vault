@@ -1,0 +1,11 @@
+{
+  "name": "vault-plugin-deps",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dependencies for vault plugin scripts (installed to CLAUDE_PLUGIN_DATA)",
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "fast-glob": "^3.3.0",
+    "js-yaml": "^4.1.0"
+  }
+}

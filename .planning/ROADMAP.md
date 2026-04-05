@@ -27,7 +27,10 @@ Decimal phases appear between their surrounding integers in numeric order.
   2. User can run `/vault:init` on an existing vault and the wizard proposes additions without moving or renaming any file without explicit approval
   3. Note templates (project dashboard, task list, inbox note) exist in the vault's templates/ folder after init
   4. vault:config.md exists at vault root and is referenced from both CLAUDE.md and AGENTS.md so any agent can read vault conventions
-**Plans**: TBD
+**Plans:** 2 plans
+Plans:
+- [ ] 01-01-PLAN.md — Plugin scaffold (plugin.json, skills, hooks, scripts, package.json)
+- [ ] 01-02-PLAN.md — Bundled note templates and end-to-end verification
 
 ### Phase 2: Daily Workflows
 **Goal**: Engineers can capture a note with a smart destination suggestion, triage their inbox with per-item confirmation, and create or refresh project dashboards — all without leaving their terminal
@@ -61,6 +64,6 @@ Phases execute in numeric order: 1 → 2 → 3
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation + Setup | 0/? | Not started | - |
+| 1. Foundation + Setup | 0/2 | Planning complete | - |
 | 2. Daily Workflows | 0/? | Not started | - |
 | 3. Context + Analysis | 0/? | Not started | - |

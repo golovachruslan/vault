@@ -30,7 +30,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 **Plans:** 2 plans
 Plans:
 - [x] 01-01-PLAN.md — Plugin scaffold (plugin.json, skills, hooks, scripts, package.json)
-- [ ] 01-02-PLAN.md — Bundled note templates and end-to-end verification
+- [x] 01-02-PLAN.md — Bundled note templates and end-to-end verification
 
 ### Phase 2: Daily Workflows
 **Goal**: Engineers can capture a note with a smart destination suggestion, triage their inbox with per-item confirmation, and create or refresh project dashboards — all without leaving their terminal

@@ -7,10 +7,10 @@
 
 ### Setup
 
-- [ ] **SETUP-01**: User can run `/vault:init` to scaffold a new vault with PARA folder structure (inbox/, daily/, projects/, areas/, resources/, archive/, templates/)
-- [ ] **SETUP-02**: User can run `/vault:init` on an existing vault and the wizard detects existing structure, proposes additions non-destructively (never moves/renames without explicit approval)
-- [ ] **SETUP-03**: Setup wizard creates core note templates in the vault's templates/ folder (project dashboard, task list, inbox note)
-- [ ] **SETUP-04**: Plugin generates a `vault:config.md` referenced from CLAUDE.md and AGENTS.md so any agent knows the vault conventions
+- [x] **SETUP-01**: User can run `/vault:init` to scaffold a new vault with PARA folder structure (inbox/, daily/, projects/, areas/, resources/, archive/, templates/)
+- [x] **SETUP-02**: User can run `/vault:init` on an existing vault and the wizard detects existing structure, proposes additions non-destructively (never moves/renames without explicit approval)
+- [x] **SETUP-03**: Setup wizard creates core note templates in the vault's templates/ folder (project dashboard, task list, inbox note)
+- [x] **SETUP-04**: Plugin generates a `vault:config.md` referenced from CLAUDE.md and AGENTS.md so any agent knows the vault conventions
 
 ### Capture
 
@@ -92,10 +92,10 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| SETUP-01 | Phase 1 — Foundation + Setup | Pending |
-| SETUP-02 | Phase 1 — Foundation + Setup | Pending |
-| SETUP-03 | Phase 1 — Foundation + Setup | Pending |
-| SETUP-04 | Phase 1 — Foundation + Setup | Pending |
+| SETUP-01 | Phase 1 — Foundation + Setup | Complete |
+| SETUP-02 | Phase 1 — Foundation + Setup | Complete |
+| SETUP-03 | Phase 1 — Foundation + Setup | Complete |
+| SETUP-04 | Phase 1 — Foundation + Setup | Complete |
 | CAPT-01 | Phase 2 — Daily Workflows | Pending |
 | CAPT-02 | Phase 2 — Daily Workflows | Pending |
 | CAPT-03 | Phase 2 — Daily Workflows | Pending |

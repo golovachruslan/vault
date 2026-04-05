@@ -29,7 +29,7 @@ Decimal phases appear between their surrounding integers in numeric order.
   4. vault:config.md exists at vault root and is referenced from both CLAUDE.md and AGENTS.md so any agent can read vault conventions
 **Plans:** 2 plans
 Plans:
-- [ ] 01-01-PLAN.md — Plugin scaffold (plugin.json, skills, hooks, scripts, package.json)
+- [x] 01-01-PLAN.md — Plugin scaffold (plugin.json, skills, hooks, scripts, package.json)
 - [ ] 01-02-PLAN.md — Bundled note templates and end-to-end verification
 
 ### Phase 2: Daily Workflows

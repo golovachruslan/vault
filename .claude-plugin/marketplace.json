@@ -1,0 +1,24 @@
+{
+  "name": "vault-plugins",
+  "owner": {
+    "name": "Ruslan Halavach"
+  },
+  "metadata": {
+    "description": "AI-agent-friendly Obsidian vault management plugins"
+  },
+  "plugins": [
+    {
+      "name": "vault",
+      "source": "./",
+      "description": "AI-agent-friendly Obsidian vault management — setup, capture, organize, and context generation",
+      "version": "1.0.0",
+      "author": {
+        "name": "Ruslan Halavach"
+      },
+      "homepage": "https://github.com/golovachruslan/vault",
+      "repository": "https://github.com/golovachruslan/vault",
+      "keywords": ["obsidian", "vault", "knowledge-management", "ai-context"],
+      "category": "productivity"
+    }
+  ]
+}
